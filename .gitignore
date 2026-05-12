@@ -1,0 +1,11 @@
+# Archivos de sesión y estado local de Claude Code
+sessions/
+*.jsonl
+.last-cleanup
+ide/
+
+# Credenciales y tokens OAuth (nunca sincronizar)
+.credentials.json
+.claude.json
+backups/
+mcp-needs-auth-cache.json
