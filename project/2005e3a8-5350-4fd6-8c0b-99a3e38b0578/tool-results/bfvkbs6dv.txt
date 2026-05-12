@@ -1,0 +1,2387 @@
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : El t‚rmino 'extglob.Name' no se reconoce como nombre de un cmdlet, funci¢n, archivo de script o 
+programa ejecutable. Compruebe si escribi¢ correctamente el nombre o, si incluy¢ una ruta de acceso, compruebe que 
+dicha ruta es correcta e int‚ntelo de nuevo.
+En l¡nea: 2 Car cter: 29
++ Get-Process | Where-Object {extglob.Name -match 'OneDrive|Teams|Spoti ...
++                             ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+RAM libre: 1.7 GB
+Ritual completado

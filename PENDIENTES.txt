@@ -1,0 +1,32 @@
+PENDIENTES — sesion 12/05/2026
+==============================
+
+1. LAPTOP — verificar que Claude termino sus cambios en setup.ps1
+   El laptop estaba actualizando setup.ps1 para incluir sync de MCPs, skills (commands/),
+   keybindings.json y settings.json. Confirmar que quedo bien antes de commitear.
+
+2. LAPTOP — ejecutar setup.ps1 como Administrador
+   Una vez verificado el punto anterior, ejecutar:
+   & "G:\Mi unidad\claude-config\setup.ps1"
+   Esto crea todos los symlinks en el laptop (Desktop/Claude, RITUAL, memory, settings, commands).
+
+3. ESTE PC (sobremesa) — actualizar symlinks
+   El project hash cambio de c--Users-adria--claude a c--Users-adria-Desktop-Claude.
+   Hay que borrar el symlink viejo y crear el nuevo apuntando a G:\Mi unidad\claude-config\project\
+
+4. SUBIR CAMBIOS A GITHUB
+   Una vez todo verificado en ambos PCs:
+   & "G:\Mi unidad\claude-config\sync.ps1"
+
+5. MCPs — reinstalar en el PC nuevo (sobremesa)
+   El PC nuevo no tiene los MCPs del PC antiguo instalados:
+   - context7
+   - supabase
+   - mcp-agents / OpenRouter
+   Revisar G:\Mi unidad\Claude\.mcp.json para ver la configuracion original.
+
+6. COMANDO "ACABAMOS"
+   En el PC antiguo habia una serie de acciones configuradas para cuando Adrian
+   escribe "ACABAMOS". Preguntar a Adrian que hacia exactamente para recrearlo.
+
+==============================

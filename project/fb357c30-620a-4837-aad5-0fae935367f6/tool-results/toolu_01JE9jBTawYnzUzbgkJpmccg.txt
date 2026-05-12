@@ -1,0 +1,152 @@
+698:button[onclick*="confirm"] {
+977:      <button class="login-btn" onclick="continueLogin()">Acceder</button>
+982:      <button class="login-btn" onclick="doLogin()">Acceder</button>
+983:      <button class="login-reset" onclick="backToUsername()">← Cambiar usuario</button>
+990:      <button class="login-btn" onclick="createPassword()">Acceder</button>
+991:      <button class="login-reset" onclick="backToUsername()">← Cambiar usuario</button>
+1007:      <button class="logout-btn" onclick="logout()">Salir</button>
+1011:    <button class="tab-btn active" onclick="switchMainTab('inicio',this)">Inicio</button>
+1012:    <button class="tab-btn" onclick="switchMainTab('turnos',this)">Turnos</button>
+1013:    <button class="tab-btn" onclick="switchMainTab('servicio',this)">Servicio</button>
+1014:    <button class="tab-btn" onclick="switchMainTab('errores',this)">Errores</button>
+1015:    <button class="tab-btn" onclick="switchMainTab('checklist',this)">Checklist</button>
+1016:    <button class="tab-btn" onclick="switchMainTab('horas',this)">Horas extra</button>
+1017:    <button class="tab-btn" id="tab-mkt-btn" onclick="switchMainTab('marketing',this)">Marketing</button>
+1018:    <button class="tab-btn" id="tab-verify-btn" style="display:none" onclick="switchMainTab('verificar',this)">Verificar turnos</button>
+1019:    <button class="tab-btn" onclick="switchMainTab('empleados',this)">Empleados</button>
+1033:        <div class="home-acceso" onclick="document.querySelector('[onclick*=turnos]').click()">
+1038:        <div class="home-acceso" onclick="document.querySelector('[onclick*=servicio]').click()">
+1043:        <div class="home-acceso" onclick="document.querySelector('[onclick*=checklist]').click()">
+1048:        <div class="home-acceso" onclick="document.querySelector('[onclick*=errores]').click()">
+1078:            <button class="stock-btn" onclick="changeStock('smash',-1)">−</button>
+1080:            <button class="stock-btn" onclick="changeStock('smash',1)">+</button>
+1086:            <button class="stock-btn" onclick="changeStock('medallon',-1)">−</button>
+1088:            <button class="stock-btn" onclick="changeStock('medallon',1)">+</button>
+1094:            <button class="stock-btn" onclick="changeStock('bacon',-1)">−</button>
+1096:            <button class="stock-btn" onclick="changeStock('bacon',1)">+</button>
+1102:            <button class="stock-btn" onclick="changeStock('mermelada',-1)">−</button>
+1104:            <button class="stock-btn" onclick="changeStock('mermelada',1)">+</button>
+1110:            <button class="stock-btn" onclick="changeStock('deshilachada',-1)">−</button>
+1112:            <button class="stock-btn" onclick="changeStock('deshilachada',1)">+</button>
+1118:            <button class="stock-btn" onclick="changeStock('pan',-1)">−</button>
+1120:            <button class="stock-btn" onclick="changeStock('pan',1)">+</button>
+1127:            <button class="stock-btn" onclick="changeStock('croquetachuleton',-1)">−</button>
+1129:            <button class="stock-btn" onclick="changeStock('croquetachuleton',1)">+</button>
+1135:            <button class="stock-btn" onclick="changeStock('croquetacecina',-1)">−</button>
+1137:            <button class="stock-btn" onclick="changeStock('croquetacecina',1)">+</button>
+1143:            <button class="stock-btn" onclick="changeStock('croquetajamon',-1)">−</button>
+1145:            <button class="stock-btn" onclick="changeStock('croquetajamon',1)">+</button>
+1151:            <button class="stock-btn" onclick="changeStock('patatas',-1)">−</button>
+1153:            <button class="stock-btn" onclick="changeStock('patatas',1)">+</button>
+1159:            <button class="stock-btn" onclick="changeStock('boniato',-1)">−</button>
+1161:            <button class="stock-btn" onclick="changeStock('boniato',1)">+</button>
+1164:      <button class="reset-check" onclick="resetStock()">Resetear stock a cero</button>
+1174:            <button class="stock-btn" onclick="changeKiroko('panes',-1)">−</button>
+1176:            <button class="stock-btn" onclick="changeKiroko('panes',1)">+</button>
+1182:            <button class="stock-btn" onclick="changeKiroko('pulledpork',-1)">−</button>
+1184:            <button class="stock-btn" onclick="changeKiroko('pulledpork',1)">+</button>
+1190:            <button class="stock-btn" onclick="changeKiroko('croquetachuleton',-1)">−</button>
+1192:            <button class="stock-btn" onclick="changeKiroko('croquetachuleton',1)">+</button>
+1198:            <button class="stock-btn" onclick="changeKiroko('croquetacecina',-1)">−</button>
+1200:            <button class="stock-btn" onclick="changeKiroko('croquetacecina',1)">+</button>
+1206:            <button class="stock-btn" onclick="changeKiroko('croquetajamon',-1)">−</button>
+1208:            <button class="stock-btn" onclick="changeKiroko('croquetajamon',1)">+</button>
+1214:            <button class="stock-btn" onclick="changeKiroko('patatas',-1)">−</button>
+1216:            <button class="stock-btn" onclick="changeKiroko('patatas',1)">+</button>
+1222:            <button class="stock-btn" onclick="changeKiroko('boniato',-1)">−</button>
+1224:            <button class="stock-btn" onclick="changeKiroko('boniato',1)">+</button>
+1228:      <button class="reset-check" onclick="resetKiroko()">Resetear Kiroko a cero</button>
+1248:      <button class="reset-check" onclick="resetNotas()">Limpiar pendientes</button>
+1310:      <button onclick="calcularPedidoCarne()" style="width:100%;padding:0.85rem;font-family:'Montserrat',sans-serif;font-size:0.72rem;font-weight:800;letter-spacing:0.2em;text-transform:uppercase;color:var(--black);background:var(--beige);border:none;cursor:pointer;margin-bottom:1rem;">Calcular pedido</button>
+1360:        <button class="error-submit" onclick="registrarError()">Registrar error</button>
+1363:        <button class="filter-btn active" onclick="filtrarErrores('',this)">Todos</button>
+1364:        <button class="filter-btn" onclick="filtrarErrores('hugo',this)">Hugo</button>
+1365:        <button class="filter-btn" onclick="filtrarErrores('omar',this)">Omar</button>
+1366:        <button class="filter-btn" onclick="filtrarErrores('maria',this)">María</button>
+1367:        <button class="filter-btn" onclick="filtrarErrores('carla',this)">Carla</button>
+1368:        <button class="filter-btn" onclick="filtrarErrores('test',this)">Test</button>
+1371:        <button class="turnos-nav-btn" onclick="cambiarMesSocio(-1)">← Anterior</button>
+1373:        <button class="turnos-nav-btn" onclick="cambiarMesSocio(1)">Siguiente →</button>
+1377:      <button class="reset-check" onclick="resetErrores()">Borrar todos los errores</button>
+1386:        <button class="check-tab active" onclick="switchTab('inicio')">Inicio de turno</button>
+1387:        <button class="check-tab" onclick="switchTab('fin')">Fin de turno</button>
+1400:              <div class="check-item" data-id="in-pl-1" onclick="toggleCheck(this)"><div class="check-box"></div><div class="check-prio prio-red"></div><span class="check-text">Encendido plancha</span></div>
+1401:              <div class="check-item" data-id="in-pl-2" onclick="toggleCheck(this)"><div class="check-box"></div><div class="check-prio prio-red"></div><span class="check-text">Atemperar carnes</span></div>
+1402:              <div class="check-item" data-id="in-pl-3" onclick="toggleCheck(this)"><div class="check-box"></div><div class="check-prio prio-red"></div><span class="check-text">Hacer bacon</span></div>
+1403:              <div class="check-item" data-id="in-pl-4" onclick="toggleCheck(this)"><div class="check-box"></div><div class="check-prio prio-red"></div><span class="check-text">Prensar</span></div>
+1404:              <div class="check-item" data-id="in-pl-5" onclick="toggleCheck(this)"><div class="check-box"></div><div class="check-prio prio-orange"></div><span class="check-text">Traer panes</span></div>
+1405:              <div class="check-item" data-id="in-pl-6" onclick="toggleCheck(this)"><div class="check-box"></div><div class="check-prio prio-orange"></div><span class="check-text">Traer patatas</span></div>
+1406:              <div class="check-item" data-id="in-pl-7" onclick="toggleCheck(this)"><div class="check-box"></div><div class="check-prio prio-orange"></div><span class="check-text">Traer croquetas</span></div>
+1407:              <div class="check-item" data-id="in-pl-8" onclick="toggleCheck(this)"><div class="check-box"></div><div class="check-prio prio-yellow"></div><span class="check-text">Revisar auto pedidos</span></div>
+1408:              <div class="check-item" data-id="in-pl-9" onclick="toggleCheck(this)"><div class="check-box"></div><div class="check-prio prio-yellow"></div><span class="check-text">Preparar lavavajillas</span></div>
+1414:              <div class="check-item" data-id="in-pr-1" onclick="toggleCheck(this)"><div class="check-box"></div><div class="check-prio prio-red"></div><span class="check-text">Hacer bacon</span></div>
+1415:              <div class="check-item" data-id="in-pr-2" onclick="toggleCheck(this)"><div class="check-box"></div><div class="check-prio prio-red"></div><span class="check-text">Hacer pollo</span></div>
+1416:              <div class="check-item" data-id="in-pr-3" onclick="toggleCheck(this)"><div class="check-box"></div><div class="check-prio prio-red"></div><span class="check-text">Hacer salsas</span></div>
+1417:              <div class="check-item" data-id="in-pr-4" onclick="toggleCheck(this)"><div class="check-box"></div><div class="check-prio prio-red"></div><span class="check-text">Preparar ingredientes</span></div>
+1418:              <div class="check-item" data-id="in-pr-5" onclick="toggleCheck(this)"><div class="check-box"></div><div class="check-prio prio-orange"></div><span class="check-text">Encender LED</span></div>
+1419:              <div class="check-item" data-id="in-pr-6" onclick="toggleCheck(this)"><div class="check-box"></div><div class="check-prio prio-orange"></div><span class="check-text">Revisar aceite freidoras</span></div>
+1425:              <div class="check-item" data-id="in-em-1" onclick="toggleCheck(this)"><div class="check-box"></div><div class="check-prio prio-red"></div><span class="check-text">Encender freidoras</span></div>
+1426:              <div class="check-item" data-id="in-em-2" onclick="toggleCheck(this)"><div class="check-box"></div><div class="check-prio prio-red"></div><span class="check-text">Descongelar costilla</span></div>
+1427:              <div class="check-item" data-id="in-em-3" onclick="toggleCheck(this)"><div class="check-box"></div><div class="check-prio prio-red"></div><span class="check-text">Hacer cajas</span></div>
+1428:              <div class="check-item" data-id="in-em-4" onclick="toggleCheck(this)"><div class="check-box"></div><div class="check-prio prio-red"></div><span class="check-text">Prensar</span></div>
+1429:              <div class="check-item" data-id="in-em-5" onclick="toggleCheck(this)"><div class="check-box"></div><div class="check-prio prio-red"></div><span class="check-text">Encender aire acondicionado</span></div>
+1430:              <div class="check-item" data-id="in-em-6" onclick="toggleCheck(this)"><div class="check-box"></div><div class="check-prio prio-orange"></div><span class="check-text">Ayudar donde haga falta</span></div>
+1436:              <div class="check-item" data-id="in-ca-1" onclick="toggleCheck(this)"><div class="check-box"></div><div class="check-prio prio-red"></div><span class="check-text">Limpiar aseos</span></div>
+1437:              <div class="check-item" data-id="in-ca-2" onclick="toggleCheck(this)"><div class="check-box"></div><div class="check-prio prio-red"></div><span class="check-text">Limpiar mesas</span></div>
+1438:              <div class="check-item" data-id="in-ca-3" onclick="toggleCheck(this)"><div class="check-box"></div><div class="check-prio prio-red"></div><span class="check-text">Encender regleta contrabarra</span></div>
+1439:              <div class="check-item" data-id="in-ca-4" onclick="toggleCheck(this)"><div class="check-box"></div><div class="check-prio prio-red"></div><span class="check-text">Revisar / Comprobar hielos</span></div>
+1440:              <div class="check-item" data-id="in-ca-5" onclick="toggleCheck(this)"><div class="check-box"></div><div class="check-prio prio-red"></div><span class="check-text">Revisar / Traer tartas</span></div>
+1441:              <div class="check-item" data-id="in-ca-6" onclick="toggleCheck(this)"><div class="check-box"></div><div class="check-prio prio-red"></div><span class="check-text">Botelleros</span></div>
+1442:              <div class="check-item" data-id="in-ca-7" onclick="toggleCheck(this)"><div class="check-box"></div><div class="check-prio prio-red"></div><span class="check-text">Preparar reservas</span></div>
+1443:              <div class="check-item" data-id="in-ca-8" onclick="toggleCheck(this)"><div class="check-box"></div><div class="check-prio prio-orange"></div><span class="check-text">Controlar temperatura salón</span></div>
+1444:              <div class="check-item" data-id="in-ca-9" onclick="toggleCheck(this)"><div class="check-box"></div><div class="check-prio prio-orange"></div><span class="check-text">Fregar suelo</span></div>
+1445:              <div class="check-item" data-id="in-ca-10" onclick="toggleCheck(this)"><div class="check-box"></div><div class="check-prio prio-orange"></div><span class="check-text">Poner música</span></div>
+1446:              <div class="check-item" data-id="in-ca-11" onclick="toggleCheck(this)"><div class="check-box"></div><div class="check-prio prio-orange"></div><span class="check-text">Subir persiana</span></div>
+1447:              <div class="check-item" data-id="in-ca-12" onclick="toggleCheck(this)"><div class="check-box"></div><div class="check-prio prio-yellow"></div><span class="check-text">Agua cafetera</span></div>
+1448:              <div class="check-item" data-id="in-ca-13" onclick="toggleCheck(this)"><div class="check-box"></div><div class="check-prio prio-yellow"></div><span class="check-text">Encender luz terraza</span></div>
+1449:              <div class="check-item" data-id="in-ca-14" onclick="toggleCheck(this)"><div class="check-box"></div><div class="check-prio prio-yellow"></div><span class="check-text">Revisar auto pedidos</span></div>
+1450:              <div class="check-item" data-id="in-ca-15" onclick="toggleCheck(this)"><div class="check-box"></div><div class="check-prio prio-yellow"></div><span class="check-text">Limpiar terraza</span></div>
+1451:              <div class="check-item" data-id="in-ca-16" onclick="toggleCheck(this)"><div class="check-box"></div><div class="check-prio prio-yellow"></div><span class="check-text">Ambientador</span></div>
+1462:              <div class="check-item" data-id="fi-pl-1" onclick="toggleCheck(this)"><div class="check-box"></div><span class="check-text">Limpiar plancha + cajón + estantería</span></div>
+1463:              <div class="check-item" data-id="fi-pl-2" onclick="toggleCheck(this)"><div class="check-box"></div><span class="check-text">Fregar</span></div>
+1464:              <div class="check-item" data-id="fi-pl-3" onclick="toggleCheck(this)"><div class="check-box"></div><span class="check-text">Guardar carne</span></div>
+1465:              <div class="check-item" data-id="fi-pl-4" onclick="toggleCheck(this)"><div class="check-box"></div><span class="check-text">Guardar pollo</span></div>
+1466:              <div class="check-item" data-id="fi-pl-5" onclick="toggleCheck(this)"><div class="check-box"></div><span class="check-text">Fregadero limpio</span></div>
+1467:              <div class="check-item" data-id="fi-pl-6" onclick="toggleCheck(this)"><div class="check-box"></div><span class="check-text">Revisar batería tablet</span></div>
+1473:              <div class="check-item" data-id="fi-pr-1" onclick="toggleCheck(this)"><div class="check-box"></div><span class="check-text">Guardar ingredientes</span></div>
+1474:              <div class="check-item" data-id="fi-pr-2" onclick="toggleCheck(this)"><div class="check-box"></div><span class="check-text">Limpiar encimeras</span></div>
+1475:              <div class="check-item" data-id="fi-pr-3" onclick="toggleCheck(this)"><div class="check-box"></div><span class="check-text">Secar platos lavavajillas</span></div>
+1476:              <div class="check-item" data-id="fi-pr-4" onclick="toggleCheck(this)"><div class="check-box"></div><span class="check-text">Fregadero limpio</span></div>
+1477:              <div class="check-item" data-id="fi-pr-5" onclick="toggleCheck(this)"><div class="check-box"></div><span class="check-text">Cajón aceite plancha</span></div>
+1478:              <div class="check-item" data-id="fi-pr-6" onclick="toggleCheck(this)"><div class="check-box"></div><span class="check-text">Limpiar aceite</span></div>
+1479:              <div class="check-item" data-id="fi-pr-7" onclick="toggleCheck(this)"><div class="check-box"></div><span class="check-text">Vaciar lavavajillas y apagar</span></div>
+1480:              <div class="check-item" data-id="fi-pr-8" onclick="toggleCheck(this)"><div class="check-box"></div><span class="check-text">Revisar neveras</span></div>
+1486:              <div class="check-item" data-id="fi-em-1" onclick="toggleCheck(this)"><div class="check-box"></div><span class="check-text">Limpiar encimeras</span></div>
+1487:              <div class="check-item" data-id="fi-em-2" onclick="toggleCheck(this)"><div class="check-box"></div><span class="check-text">Apagar freidoras</span></div>
+1488:              <div class="check-item" data-id="fi-em-3" onclick="toggleCheck(this)"><div class="check-box"></div><span class="check-text">Guardar ingredientes</span></div>
+1489:              <div class="check-item" data-id="fi-em-4" onclick="toggleCheck(this)"><div class="check-box"></div><span class="check-text">Ordenar cajas</span></div>
+1490:              <div class="check-item" data-id="fi-em-5" onclick="toggleCheck(this)"><div class="check-box"></div><span class="check-text">Guardar panes</span></div>
+1491:              <div class="check-item" data-id="fi-em-6" onclick="toggleCheck(this)"><div class="check-box"></div><span class="check-text">Revisar carne / pollo</span></div>
+1492:              <div class="check-item" data-id="fi-em-7" onclick="toggleCheck(this)"><div class="check-box"></div><span class="check-text">Apagar cronómetros</span></div>
+1493:              <div class="check-item" data-id="fi-em-8" onclick="toggleCheck(this)"><div class="check-box"></div><span class="check-text">Tirar basura</span></div>
+1494:              <div class="check-item" data-id="fi-em-9" onclick="toggleCheck(this)"><div class="check-box"></div><span class="check-text">Dejar trapos en lejía</span></div>
+1500:              <div class="check-item" data-id="fi-ca-1" onclick="toggleCheck(this)"><div class="check-box"></div><span class="check-text">Bajar persiana</span></div>
+1501:              <div class="check-item" data-id="fi-ca-2" onclick="toggleCheck(this)"><div class="check-box"></div><span class="check-text">Limpiar / colocar sillas y mesas</span></div>
+1502:              <div class="check-item" data-id="fi-ca-3" onclick="toggleCheck(this)"><div class="check-box"></div><span class="check-text">Hacer botelleros</span></div>
+1503:              <div class="check-item" data-id="fi-ca-4" onclick="toggleCheck(this)"><div class="check-box"></div><span class="check-text">Lavar vasos y secarlos</span></div>
+1504:              <div class="check-item" data-id="fi-ca-5" onclick="toggleCheck(this)"><div class="check-box"></div><span class="check-text">Revisar Aeroccino</span></div>
+1505:              <div class="check-item" data-id="fi-ca-6" onclick="toggleCheck(this)"><div class="check-box"></div><span class="check-text">Poner datáfonos / iPad / tablet a cargar</span></div>
+1506:              <div class="check-item" data-id="fi-ca-7" onclick="toggleCheck(this)"><div class="check-box"></div><span class="check-text">Finalizar pedidos abiertos</span></div>
+1507:              <div class="check-item" data-id="fi-ca-8" onclick="toggleCheck(this)"><div class="check-box"></div><span class="check-text">Hacer caja</span></div>
+1508:              <div class="check-item" data-id="fi-ca-9" onclick="toggleCheck(this)"><div class="check-box"></div><span class="check-text">Realizar cierre datáfono negro</span></div>
+1509:              <div class="check-item" data-id="fi-ca-10" onclick="toggleCheck(this)"><div class="check-box"></div><span class="check-text">Revisar aseos</span></div>
+1510:              <div class="check-item" data-id="fi-ca-11" onclick="toggleCheck(this)"><div class="check-box"></div><span class="check-text">Apagar regleta</span></div>
+1511:              <div class="check-item" data-id="fi-ca-12" onclick="toggleCheck(this)"><div class="check-box"></div><span class="check-text">Apagar lavavajillas</span></div>
+1516:      <button class="reset-check" onclick="resetChecklist()">Reiniciar checklist</button>
+1533:          <button class="mkt-add-btn" onclick="addMktTask('mkt-task-input')">Añadir</button>
+1540:          <button class="mkt-cal-nav-btn" onclick="moveMktCal(-1)">‹</button>
+1542:          <button class="mkt-cal-nav-btn" onclick="moveMktCal(1)">›</button>
+1563:          <button class="emp-back-btn" onclick="empVolverDashboard()">← Volver</button>
+1598:      <button class="logout-btn" onclick="logout()">Salir</button>
+
+[Showing results with pagination = limit: 150]

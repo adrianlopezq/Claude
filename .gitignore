@@ -9,3 +9,7 @@ ide/
 .claude.json
 backups/
 mcp-needs-auth-cache.json
+
+# Datos operacionales de subagentes y tool-results (no necesarios en git)
+project/*/subagents/
+project/*/tool-results/

@@ -1,0 +1,3 @@
+- [Setup sync dos PCs](setup-sync.md) — configuracion de Google Drive + GitHub para sincronizar Claude entre sobremesa y laptop
+- [Usuario Adrian](usuario.md) — perfil y preferencias de trabajo
+- [Comando ACABAMOS](acabamos.md) — comando de fin de sesion
